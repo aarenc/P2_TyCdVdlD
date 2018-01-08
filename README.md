@@ -1,2 +1,2 @@
-# P2_TyCdVdlD
-P2_TyCdVdlD
+# Practica 2
+Tipología y ciclo de vida de los datos
