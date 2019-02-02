@@ -1,2 +1,1 @@
-# Práctica 2
-Tipología y ciclo de vida de los datos
+Análisis de las diferencias entre las características de los niveles de calidad en la variante blanco del vino portugues "Vinho Verde".
